@@ -6,7 +6,7 @@ lines = "-----------"
 
 puts " #{board[0]} #{pipe} #{board[1]} #{pipe} #{board[2]}"
 puts "#{lines}"
-puts " #{board[3]} #{pipe} #{board[4]} #{separator} #{board[5]} "
+puts " #{board[3]} #{pipe} #{board[4]} #{pipe} #{board[5]}"
 puts "#{lines}"
-puts " #{board[6]} #{separator} #{board[7]} #{separator} #{board[8]} "
+puts " #{board[6]} #{pipe} #{board[7]} #{pipe} #{board[8]}"
 end
